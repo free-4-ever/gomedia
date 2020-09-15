@@ -18,13 +18,13 @@ first setup the enviroment file in the root of the project.
 
 ### Migrate the Database
 
-Migrate the database. Make sure you invoke it with the seed flag so a user is created and the list are filled.
+Migrate the database. Make sure you invoke it with the seed flag so a user is created and the list is filled.
 
 * `php artisan migrate --seed`
 
 ### Config
 
-Make sure your domain is among the values under 'stateful' key in sanctum.php configuration file (in case serving the app not from localhost) 
+Make sure your domain is among the values under 'stateful' key in sanctum.php configuration file (in case serving the app not from localhost).
 
 ### Building front-end assets
 
