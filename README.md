@@ -39,5 +39,5 @@ or
 ## Usage
 
 A user model with following credentials is already available.  
-email: 'demo@gomedia.com'  
-pass: '12345678'
+* email: `demo@gomedia.com`  
+* pass: `12345678`
